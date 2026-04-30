@@ -1,26 +1,38 @@
-# Learning-Lab: KiCad Simple LED Circuit
+# Simple LED Circuit – KiCad PCB Design 
 
-## Project Overview
+## Overview
 <p align="justify">
 
-This is my "Hello World" of hardware design. I created a complete PCB for a simple DC circuit: a 9V battery source powering a Red LED through a current-limiting resistor. This project served as my introduction to the KiCad ecosystem and the end-to-end manufacturing workflow.
+This project is my first complete Printed Circuit Board (PCB) design, created entirely in KiCad 9.0. It is simple LED circuit based on a beginner tutorial. The project involved drawing a schematic, designing the board layout, and generating the manufacturing files. 
 </p>
 
 <p align="justify">
 
 ---
 
-## Technical Specifications: 
+## Circuit Description
 
 ---
 
-## Skills Demonstrated
+## Tools Used
+
+---
+
+## Design Process
+
+---
+
+## Learning Outcomes 
+
+---
+
+## Repository Structure 
 
 ---
 
 ## Credits and Acknowledgement 
+This design was made by following the tutorial below. The project structure and steps are based rntirely on this guide. 
 
----
-
-## License 
-This project is licensed under the MIT License [license](./license.txt)
+- **Tutorial:** [KiCad Tutorial: Make Your First Printed Circuit Board](https://www.build-electronic-circuits.com/kicad-tutorial/)
+- **Author:** Oyvind Dahl, Build Electronic Circuits
+ 
