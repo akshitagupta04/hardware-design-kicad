@@ -11,6 +11,7 @@ This project is my first complete Printed Circuit Board (PCB) design, created en
 ---
 
 ## Circuit Description
+This is a basic circuit showing how to connect an LED to a power source with a current-limiting resistor. 
 
 ---
 
