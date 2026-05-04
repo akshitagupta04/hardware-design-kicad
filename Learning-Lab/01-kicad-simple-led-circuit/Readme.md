@@ -11,15 +11,23 @@ This project is my first complete Printed Circuit Board (PCB) design, created en
 ---
 
 ## Circuit Description
-This is a basic circuit showing how to connect an LED to a power source with a current-limiting resistor. 
+This is a basic circuit showing how to connect an LED to a power source with a current-limiting resistor. The design uses through-hole components. 
+
+- **Power Input:** 9V battery (designed with a two-pin header for a battery clip connection)
+- **Current Limiting Resistor:** 470Ω
+- **LED Indicator:** 2V Red LED 
 
 ---
 
 ## Tools Used
+- **KiCad:** For schematic capture, PCB layout, and Gerber file generation. 
 
 ---
 
 ## Design Process
+The board was designed in KiCad following these steps: 
+
+1. **Schematic Capture:** 
 
 ---
 
