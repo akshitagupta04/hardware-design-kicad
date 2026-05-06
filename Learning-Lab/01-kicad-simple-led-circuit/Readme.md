@@ -33,11 +33,25 @@ The board was designed in KiCad following these steps:
 3. **Electrical Rules Check (ERC):** <p align="justify"> Checked the schematic to confirm no electrical errors were present.
 </p>
 
-4. **Bill of Materials (BOM):** 
+4. **Bill of Materials (BOM):** <p align="justify"> Generated the BOM from the schematic, listing all components with values, footprints, and datasheet links.
+</p>
+
+5. **PCB Layout:** <p align="justify"> Opened the board editor, placed the footprints in an organized way, and drew copper tracks to connect them according to the schematic. 
+</p>
+
+6. **Board Outline:** <p align="justify"> Drew the physical edge of the board on the Edge.Cuts layer. 
+</p>
+
+7. **Design Rules Check (DRC):** Checked the layout for physical errors, like tracks placed too close, to confirm no physical errors were present. 
+</p>
+
+8. **Manufacturing Output:** Generated the Gerber and Drill files needed for fabrication, and the Footprint Position (.pos) file for automated assembly. 
+</p>
 
 ---
 
 ## Learning Outcomes 
+
 
 ---
 
