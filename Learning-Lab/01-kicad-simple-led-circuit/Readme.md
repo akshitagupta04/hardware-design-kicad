@@ -42,20 +42,30 @@ The board was designed in KiCad following these steps:
 6. **Board Outline:** <p align="justify"> Drew the physical edge of the board on the Edge.Cuts layer. 
 </p>
 
-7. **Design Rules Check (DRC):** Checked the layout for physical errors, like tracks placed too close, to confirm no physical errors were present. 
+7. **Design Rules Check (DRC):** <p align="justify"> Checked the layout for physical errors, like tracks placed too close, to confirm no physical errors were present. 
 </p>
 
-8. **Manufacturing Output:** Generated the Gerber and Drill files needed for fabrication, and the Footprint Position (.pos) file for automated assembly. 
+8. **Manufacturing Output:** <p align="justify"> Generated the Gerber and Drill files needed for fabrication, and the Footprint Position (.pos) file for automated assembly. 
 </p>
 
 ---
 
-## Learning Outcomes 
+## Repository Structure
 
-
+```text
+/01-kicad-simple-led-circuit/
+ ├────── gerber-files/   # Manufacturing files (Gerber, Drill and Footprint position)
+ ├────── pcb-layout/     # Board layout files
+ ├────── schematic/      # schematic and BOM files
+ ├────── system-design/  # images of the board from 3D view
+ └────── Readme.md       # Readme file 
+``` 
 ---
 
-## Repository Structure 
+## Learning Outcomes
+<p align="justify">
+By completing this project, I learned the standard KiCad workflow: schematic capture, component to footprint mapping, PCB layout, design rule checking, and generation of manufacturing output. This forms the base for all future designs. 
+</p>
 
 ---
 
