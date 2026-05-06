@@ -6,8 +6,6 @@
 This project is my first complete Printed Circuit Board (PCB) design, created entirely in KiCad 9.0. It is simple LED circuit based on a beginner tutorial. The project involved drawing a schematic, designing the board layout, and generating the manufacturing files. 
 </p>
 
-<p align="justify">
-
 ---
 
 ## Circuit Description
@@ -27,7 +25,7 @@ This is a basic circuit showing how to connect an LED to a power source with a c
 ## Design Process
 The board was designed in KiCad following these steps: 
 
-1. **Schematic Capture:** 
+1. **Schematic Capture:** Drew the circuit diagram, placed the battery, resiator, and LED symbols, and connected their pins with wires. Annotated the schematic to give components values (resistor value = 470 (ohm), battery value = 9V, LED value = 2V RED). 
 
 ---
 
